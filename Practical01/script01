@@ -1,0 +1,10 @@
+#!/bin/bash
+# My first bash shell script: script01
+#
+clear
+echo "========================================"
+echo "Hello $USER"
+echo "Today is \c " ; date
+echo "Number of user login : \c" ; who | wc -l
+echo "Calendar"
+cal

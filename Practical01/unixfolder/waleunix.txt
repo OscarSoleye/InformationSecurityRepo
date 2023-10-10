@@ -1,0 +1,7 @@
+This is my unix file
+
+total 0
+drwxr-xr-x 1 codio codio 66 Oct  9 12:40 Practical01
+total 8
+-rw-rw-r-- 1 codio codio 43 Oct  9 12:39 othertxt.txt
+-rw-rw-r-- 1 codio codio 83 Oct  9 12:51 waleunix.txt
