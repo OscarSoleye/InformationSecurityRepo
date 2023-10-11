@@ -1,0 +1,15 @@
+#!/bin/bash
+
+num1="$1"
+num2="$2"
+num3="$3"
+if $num1<$num2; then
+	if $num2>$num3
+	echo "$num2 is the highest"
+	else
+	echo "$num3 is the highest"
+else
+	echo "$num1 is the highest"
+echo "$num1"
+echo "$num2"
+echo "$num3"
